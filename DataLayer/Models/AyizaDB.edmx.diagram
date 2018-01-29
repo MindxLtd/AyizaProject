@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="33a4b0c5c2674db2b5afd699f890ec2a" Name="Diagram1" ZoomLevel="72">
+        <EntityTypeShape EntityType="Ayiza_DBModel.Address_Type" Width="1.5" PointX="3" PointY="54.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.AirPort" Width="1.5" PointX="6" PointY="136.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Application_ChangeLog" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Application_Type" Width="1.5" PointX="9.75" PointY="125.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Application_Type_Languages" Width="1.5" PointX="9" PointY="137.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Appointment_Type" Width="1.5" PointX="3" PointY="69.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Asset_Type" Width="1.5" PointX="3" PointY="74" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Business_Type" Width="1.5" PointX="3" PointY="78.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Chart_Of_Accounts" Width="1.5" PointX="3" PointY="82.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.City" Width="1.5" PointX="9" PointY="130.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Communication_Category" Width="1.5" PointX="3" PointY="94" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Communication_Type" Width="1.5" PointX="5.25" PointY="117.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Company_Code" Width="1.5" PointX="5.25" PointY="156" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Company_Type" Width="1.5" PointX="3" PointY="98.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Control_AC_Type" Width="1.5" PointX="3" PointY="102.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Country" Width="1.5" PointX="5.25" PointY="189.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency" Width="1.5" PointX="3" PointY="244.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency_Category" Width="1.5" PointX="3.75" PointY="107.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency_Category_AppType_Languages" Width="1.5" PointX="6" PointY="131" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency_Category_ChangeLog" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency_ChangeLog" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Currency_Languages" Width="1.5" PointX="6" PointY="143.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Date_Format" Width="1.5" PointX="3" PointY="201" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Decimal_Format" Width="1.5" PointX="3" PointY="269.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Email_Type" Width="1.5" PointX="3" PointY="124.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Expense_Category" Width="1.5" PointX="3" PointY="128.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Expense_Type" Width="1.5" PointX="3" PointY="133.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Financial_Year" Width="1.5" PointX="3" PointY="138.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Form_Of_Address_Type" Width="1.5" PointX="3" PointY="143.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Frequency" Width="1.5" PointX="3" PointY="148.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.FX_Rate_Source" Width="1.5" PointX="3" PointY="152.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.FX_Rate_Type" Width="1.5" PointX="3" PointY="156.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.FY_Periods" Width="1.5" PointX="3" PointY="161.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Gender_Type" Width="1.5" PointX="3" PointY="165.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.GL_Account_Text" Width="1.5" PointX="5.25" PointY="112.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.GL_Account_Type" Width="1.5" PointX="3" PointY="170.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Identification_Type" Width="1.5" PointX="3" PointY="175" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Insurance_Type" Width="1.5" PointX="3" PointY="179.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Language" Width="1.5" PointX="0.75" PointY="132.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Lease_Type" Width="1.5" PointX="3" PointY="183.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Legal_Persons" Width="1.5" PointX="3" PointY="188" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Marital_Status_Type" Width="1.5" PointX="3" PointY="192.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.MESS_Type_ChangeLog" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Message_Codes" Width="1.5" PointX="12" PointY="122.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Message_Codes_ChangeLog" Width="1.5" PointX="2.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Message_Codes_Languages" Width="1.5" PointX="3" PointY="196.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Message_Type" Width="1.5" PointX="8.75" PointY="120.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Message_Type_Languages" Width="1.5" PointX="11" PointY="142.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Mode_Of_Transport" Width="1.5" PointX="3" PointY="205.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Month" Width="1.5" PointX="3" PointY="209.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Nationality" Width="1.5" PointX="3" PointY="214" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Officer_Type" Width="1.5" PointX="3" PointY="218.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Port_Type" Width="1.5" PointX="7.5" PointY="162.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Priority_Type" Width="1.5" PointX="3" PointY="222.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Security_Type" Width="1.5" PointX="3" PointY="226.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Service_Usage" Width="1.5" PointX="3" PointY="231.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Sex" Width="1.5" PointX="3" PointY="235.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Share_Class" Width="1.5" PointX="3" PointY="239.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.State_Region" Width="1.5" PointX="10.5" PointY="163.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Status" Width="1.5" PointX="12" PointY="135.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Tax_Office" Width="1.5" PointX="10.5" PointY="157.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Time_Zone" Width="1.5" PointX="3" PointY="249.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Transaction_Type" Width="1.5" PointX="8.25" PointY="146.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Unit_Of_Measurement" Width="1.5" PointX="3" PointY="255.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.User_Group" Width="1.5" PointX="3" PointY="260.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.User_Type" Width="1.5" PointX="3" PointY="264.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.User" Width="1.5" PointX="5.25" PointY="198.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.VAT_Schema" Width="1.5" PointX="7.5" PointY="156" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Block_Chain" Width="1.5" PointX="4.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Ayiza_DBModel.Environment" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Address_T__AY_F___44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__AirPorts__AY_F_C__625A9A57" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__AirPorts__AY_F_C__6442E2C9" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__AirPorts__AY_F_L__6166761E" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__AirPorts__AY_F_P__634EBE90" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Applicati__AY_F___276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Currency___AY_F___2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_C__AY_F___5224328E" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_T__AY_F___208CD6FA" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Status__AY_F_APP__339FAB6E" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Transacti__AY_F___5D95E53A" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Applicati__AY_F___286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Appointme__AY_F___47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Asset_Typ__AY_F___59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Business___AY_F___571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_Bu__72910220" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Chart_Of___AY_F___04E4BC85" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_Ch__73852659" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_Ch__74794A92" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__GL_Accoun__AY_Ch__43D61337" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__City__AY_F_Count__58D1301D" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__City__AY_F_LANG___57DD0BE4" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__City__AY_F_State__59C55456" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Communica__AY_CO__47A6A41B" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Communica__AY_F___07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Communica__AY_F___489AC854" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_CO__01D345B0" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___00DF2177" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___02C769E9" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___03BB8E22" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___719CDDE7" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___76619304" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___793DFFAF" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7A3223E8" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7B264821" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7C1A6C5A" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7D0E9093" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7E02B4CC" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7EF6D905" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_F___7FEAFD3E" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_Fi__7849DB76" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_FX__756D6ECB" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_FX__7755B73D" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_C__AY_Ti__04AFB25B" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Company_T__AY_F___5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Control_A__AY_F___7F2BE32F" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Country__AY_F_CU__2739D489" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Country__AY_F_LA__29221CFB" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Country__AY_Time__282DF8C2" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Port_Type__AY_F___37703C52" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__State_Reg__AY_F___2BFE89A6" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Tax_Offic__AY_F___3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__VAT_Schem__AY_F___3F115E1A" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Currency___AY_F___1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Currency___AY_F___300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Currency___AY_F___30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Currency___AY_F___1BFD2C07" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_F_DF_I__69FBBC1F" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_F_DEC___6AEFE058" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Email_Typ__AY_F___4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Expense_C__AY_F___4B7734FF" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Expense_C__AY_F___4C6B5938" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Expense_T__AY_F___18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Financial__AY_F___70DDC3D8" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Form_Of_A__AY_F___36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_Form_O__6DCC4D03" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Frequency__AY_F___76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__VAT_Schem__AY_Fr__40F9A68C" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__FX_Rate_S__AY_F___7C4F7684" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__FX_Rate_T__AY_F___797309D9" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Transacti__AY_FX__5E8A0973" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__FY_Period__AY_F___656C112C" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Gender_Ty__AY_F___4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__GL_Accoun__AY_F___44CA3770" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__GL_Accoun__AY_F___160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Identific__AY_F___5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Insurance__AY_F___5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Lease_Typ__AY_F___68487DD7" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Legal_Per__AY_F___6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Marital_S__AY_F___6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_C__AY_F___55009F39" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_T__AY_F___245D67DE" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Mode_Of_T__AY_F___628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Months__AY_F_LAN__0A9D95DB" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Nationali__AY_F___02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Officer_T__AY_F___0D7A0286" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Port_Type__AY_F___3864608B" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Priority___AY_F___1BC821DD" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Security___AY_F___10566F31" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Service_U__AY_F___73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Sex__AY_F_LANG_I__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Share_Cla__AY_F___1332DBDC" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__State_Reg__AY_F___2CF2ADDF" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Status__AY_F_LAN__3493CFA7" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Tax_Offic__AY_F___3C34F16F" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Time_Zone__AY_F___33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Transacti__AY_F___5CA1C101" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Unit_Of_M__AY_F___4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__User_Grou__AY_F___3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__User_Type__AY_F___3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_Time_Z__671F4F74" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__VAT_Schem__AY_F___40058253" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_C__AY_F___51300E55" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Message_T__AY_F___236943A5" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_F_Stat__6BE40491" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_Time_Z__6CD828CA" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_User_G__690797E6" ManuallyRouted="false" />
+        <AssociationConnector Association="Ayiza_DBModel.FK__Users__AY_User_T__681373AD" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
